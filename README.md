@@ -256,6 +256,7 @@ ollama list    # Check available models
 
 **No papers found:**
 - Check internet connection (ArXiv/S2 require internet)
+
 - Try different search terms
 - Use local PDFs with `--local-dir`
 
@@ -270,10 +271,3 @@ ollama list    # Check available models
 
 ---
 
-## 📜 License
-
-MIT License - Free to use, modify, and distribute.
-
----
-
-*Built for local-first, privacy-preserving AI-powered research.*
